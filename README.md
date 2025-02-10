@@ -82,5 +82,7 @@ AYmsEq4FizYFCJ1smV6fhZKoRYX9
   <summary>SSH public key</summary>
   <br>
   
-`ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGxZNHFbmheKGDtESsr2IR0XkcTwxBWQ8im53rP9Mq+M`
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGxZNHFbmheKGDtESsr2IR0XkcTwxBWQ8im53rP9Mq+M
+```
 </details>
